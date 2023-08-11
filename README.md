@@ -1,6 +1,6 @@
 # Places Autocomplete with Google Maps
 
-A web application that provides a search autocomplete for places around the world, utilizing the Google Maps API. The app displays a location at the center of a map based on user input and also maintains a history of user searches. These searches can be re-selected from a modal to search again according to previous inputs.
+A web application that provides a search autocomplete for places around the world, utilizing the Google Maps API. The app displays a location at the center of a map based on user input and also maintains a history of user searches. These searches can be re-selected from a modal to search again according to previous inputs. The history does not persist as it is only a container for the current session.
 
 **Note**: This app currently uses a temporary Google Maps API key which will be deleted in a week's time. To use this application beyond this period, you'll need to replace it with your own API key.
 
